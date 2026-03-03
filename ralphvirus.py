@@ -6,8 +6,8 @@ import keyboard
 import time
 from config import STOP_CODE
 
-class KeyboardMalware:
-    """System-wide keyboard letter corruption malware."""
+class Keyboardjoke:
+    """System-wide keyboard letter corruption joke."""
     
     def __init__(self):
         self.suppressing = False
@@ -87,7 +87,7 @@ class KeyboardMalware:
 
 
 if __name__ == "__main__":
-    malware = KeyboardMalware()
+    malware = Keyboardjoke()
     try:
         malware.start()
     except KeyboardInterrupt:
