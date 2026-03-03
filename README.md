@@ -32,7 +32,7 @@
 
 Ready to deploy the chaos? You can find all the necessary files compiled and ready to go in the distribution directory.
 
-* 📥 **[Download from the Dist Folder](./Dist)**
+* 📥 **[Download from the Dist Folder](./dist)**
 
 ---
 
