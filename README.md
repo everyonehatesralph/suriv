@@ -1,19 +1,20 @@
-# Project
+# Hello World!
 
-This project contains the implementation of ralphvirus.
+RalphVirus is a keyboard virus that randomly changes pressed keys to other letters.
 
-## Files
+**Download Location:**
+- Check the [Dist Folder]
 
-- `ralphvirus.py` - Main implementation
+## System Requirements
 
-## Usage
+### For Python Script:
+- Python 3.x or higher
+- Windows, macOS, or Linux
 
-Run the script with:
+### For Executable:
+- Windows OS
+- No additional dependencies required
 
-```bash
-python ralphvirus.py
-```
+## Support
 
-## Requirements
-
-Python 3.x
+For issues, feature requests, or more information, please follow me to give you the solution.

