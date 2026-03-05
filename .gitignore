@@ -1,0 +1,11 @@
+# Ignore config file with stop code
+config.py
+cameraV.py
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+.env
