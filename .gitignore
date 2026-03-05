@@ -1,0 +1,14 @@
+# Ignore config files and sensitive scripts
+configs.py
+cameraVr.py
+combineV.py
+cursorRus.py
+startupV.py
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+.env
