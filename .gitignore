@@ -1,8 +1,8 @@
 # Ignore config file with stop code
 config.py
-cameraV.py
-combine.py
-startup.py
+cameraVr.py
+combineV.py
+startupV.py
 
 # Ignore Python cache
 __pycache__/
